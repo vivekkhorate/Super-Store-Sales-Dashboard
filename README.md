@@ -110,6 +110,7 @@ This dashboard helps stakeholders make **data-driven business decisions** by tra
 ## 👤 Author
 **Vivek Khorate**  
 📊 Aspiring Data Analyst | Power BI | Excel | SQL  
+🔗 Live Demo : *(https://app.powerbi.com/view?r=eyJrIjoiMDJmMTc5YWYtMGRiOC00N2ZiLTgwYTUtOTUwNGRiNDUxM2IzIiwidCI6IjcwNjJiZWJiLWIxOGEtNDZlMi05MjhmLTQyZDJkMTMzMTI3ZSJ9)*
 🔗 LinkedIn: *(https://www.linkedin.com/in/vivek-khorate-329b25296/)*
 
 ---
